@@ -3,18 +3,18 @@ import { useTypewriter, Cursor } from "react-simple-typewriter";
 import { BsCloudLightningFill, BsFacebook } from "react-icons/bs";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { AiFillTwitterCircle } from "react-icons/ai";
-import { SiYoutubemusic } from "react-icons/si";
+import { SiYoutube } from "react-icons/si";
 import { FiInstagram, FiMail, FiSend } from "react-icons/fi";
-import CV from "../../assets/Noor_Mohammad_resume.pdf";
+import CV from "../../assets/DummyResume.pdf";
 import { bannerImg } from "../../assets/index";
 
 const Left = () => {
   const [text] = useTypewriter({
-    words: ["Web Developer", "Full Stack Developer", "UI Designer"],
+    words: ["Student","Web Developer", "Full Stack Developer", "UI Designer","Entrepreneur"],
     loop: true,
-    typeSpeed: 30,
+    typeSpeed: 40,
     deleteSpeed: 20,
-    delaySpeed: 2000,
+    delaySpeed: 1000,
   });
   return (
     <div className="w-full lgl:w-5/12 h-full bg-bodyColor rounded-2xl shadow-testShwdow z-10">
@@ -28,33 +28,33 @@ const Left = () => {
       </div>
       <div className="w-full h-2/5 flex flex-col justify-between border-t-0 rounded-bl-xl rounded-br-xl">
         <div className="flex flex-col items-center gap-2 py-10">
-          <h1 className="text-textColor text-4xl font-semibold">John Doe</h1>
+          <h1 className="text-textColor text-4xl font-semibold">AFAQ ALI</h1>
           <p className="text-base text-designColor tracking-wide">
             {text}
             <Cursor cursorBlinking="false" cursorStyle="|" />
           </p>
           <div className="flex justify-center gap-2 mt-2">
-            <span className="hover:text-designColor duration-300 cursor-pointer text-xl">
+            <a href="https://www.github.com/afaqali0317/" target="_blank"><span className="hover:text-designColor duration-300 cursor-pointer text-xl">
               <FaGithub />
-            </span>
-            <span className="hover:text-designColor duration-300 cursor-pointer text-xl">
+            </span></a>
+            <a href="https://www.linkedin.com/in/afaq-ali-0a9894260/" target="_blank"><span className="hover:text-designColor duration-300 cursor-pointer text-xl">
               <FaLinkedin />
-            </span>
-            <span className="hover:text-designColor duration-300 cursor-pointer text-xl">
-              <SiYoutubemusic />
-            </span>
-            <span className="hover:text-designColor duration-300 cursor-pointer text-xl">
+            </span></a>
+            <a href="https://www.youtube.com/channel/UCySM3bOA4a4D4ORHFpJSfDw" target="_blank"><span className="hover:text-designColor duration-300 cursor-pointer text-xl">
+              <SiYoutube />
+            </span></a>
+            <a href="https://facebook.com/" target="_blank"><span className="hover:text-designColor duration-300 cursor-pointer text-xl">
               <BsFacebook />
-            </span>
-            <span className="hover:text-designColor duration-300 cursor-pointer text-xl">
+            </span></a>
+            <a href="https://www.instagram.com/afaqali000/" target="_blank"><span className="hover:text-designColor duration-300 cursor-pointer text-xl">
               <FiInstagram />
-            </span>
-            <span className="hover:text-designColor duration-300 cursor-pointer text-xl">
+            </span></a>
+            <a href="https://x.com/AfaqAli317" target="_blank"><span className="hover:text-designColor duration-300 cursor-pointer text-xl">
               <AiFillTwitterCircle />
-            </span>
-            <span className="hover:text-designColor duration-300 cursor-pointer text-xl">
+            </span></a>
+            <a href="mailto:afaqali03179525639@gmail.com" target="_blank"><span className="hover:text-designColor duration-300 cursor-pointer text-xl">
               <FiMail />
-            </span>
+            </span></a>
           </div>
         </div>
         <div className="flex h-14">

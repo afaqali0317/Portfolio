@@ -11,22 +11,22 @@ const MyServices = () => {
       <ServicesCard
         icons={<BiCodeAlt />}
         title="Web Development"
-        subTitle="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic, provident. Accusamus at dolorem expedita dicta."
+        subTitle="Been in Full stack Web Dev since Jun 2023."
       />
       <ServicesCard
         icons={<SiAntdesign />}
         title="Web Design"
-        subTitle="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic, provident. Accusamus at dolorem expedita dicta."
+        subTitle="Designed some of the highly Attractive and Easy to use UI/UX."
       />
       <ServicesCard
         icons={<AiTwotoneAppstore />}
         title="Mobile Application"
-        subTitle="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic, provident. Accusamus at dolorem expedita dicta."
+        subTitle="Tried my hands on Flutter and Android Development as well but it wasn't much fun."
       />
       <ServicesCard
         icons={<FaAppStoreIos />}
         title="SEO"
-        subTitle="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic, provident. Accusamus at dolorem expedita dicta."
+        subTitle="I have a good understanding of SEO and how it works."
       />
     </div>
   );

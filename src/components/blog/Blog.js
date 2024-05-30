@@ -11,8 +11,8 @@ const Blog = () => {
         <div className="px-6">
           <BlogCard
             image={blogImgOne}
-            title="September 16, 2020"
-            subTitle="UI & UX Conference at Lviv 2022"
+            title="Jan, 01, 0001"
+            subTitle="Just examples"
             category="Travel"
           />
           <BlogCard

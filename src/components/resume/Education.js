@@ -10,22 +10,22 @@ const Education = () => {
       <div className="col-span-9 md:col-span-4">
         <ResumeTitle title="Experience" icon={<MdWork />} />
         <ResumeCard
-          badge=""
+          badge="2023 - present"
           title="Web Developer"
-          subTitle="Facebook Inc."
-          des="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, itaque ipsa quae!"
+          subTitle="Upwork"
+          des="Worked Remotely with international clients from different organizations with a 94% success rate."
         />
         <ResumeCard
-          badge="2011 - 2012"
+          badge="2023 - present"
           title="Front-end Developer"
-          subTitle="Google Inc."
-          des="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, itaque ipsa quae!"
+          subTitle="Upwork"
+          des="Designed and developed user interfaces for web applications using Reactjs."
         />
         <ResumeCard
-          badge="2009 - 2010"
+          badge="2023 - present"
           title="Senior Developer"
           subTitle="ReactBD.com."
-          des="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, itaque ipsa quae!"
+          des="Same as above but with a little more responsibility and a little more pay. Hhh :)"
         />
       </div>
       <div className="w-full h-full hidden lgl:flex justify-center items-center">
@@ -34,22 +34,22 @@ const Education = () => {
       <div className="col-span-9 md:col-span-4">
         <ResumeTitle title="Education" icon={<GiGraduateCap />} />
         <ResumeCard
-          badge="2012 - 2014"
-          title="North South University"
-          subTitle="Dhaka"
-          des="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, itaque ipsa quae!"
+          badge="2022 - present"
+          title="University of Engineering & Technology"
+          subTitle="Peshawar"
+          des="Studying Computer systems Engineering with increasing crave for innovation and creativity."
         />
         <ResumeCard
-          badge="2015 - 2016"
-          title="Programming Course"
-          subTitle="UK"
-          des="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, itaque ipsa quae!"
+          badge="2023 - 2024"
+          title="Beginner's guide to Becoming a complete python developer"
+          subTitle="Coursera"
+          des="Had exposure to a latest libraries and other programming technologies."
         />
         <ResumeCard
-          badge="2018 - 2021"
+          badge="2023 - 2024"
           title="MERN Stack Developer"
-          subTitle="Dhaka"
-          des="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, itaque ipsa quae!"
+          subTitle="Coursera"
+          des="Practiced developing web applications using Express.js, React, and Node.js. Skilled in both client-side and server-side development, API integration, and state management with Redux. Committed to clean code practices and continuous learning."
         />
       </div>
     </div>

@@ -33,7 +33,7 @@ const Skills = () => {
               Mobile Application
             </p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
-              <span className="w-[85%] h-full absolute top-0 left-0 bg-designColor"></span>
+              <span className="w-[40%] h-full absolute top-0 left-0 bg-designColor"></span>
             </span>
           </div>
           {/* UI Design */}
@@ -55,29 +55,30 @@ const Skills = () => {
           <div className="py-3 border-b-[1px] border-zinc-800">
             <p className="text-base text-textColor -mb-1.5">English</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
-              <span className="w-[100%] h-full absolute top-0 left-0 bg-designColor"></span>
+              <span className="w-[90%] h-full absolute top-0 left-0 bg-designColor"></span>
             </span>
           </div>
           {/* Hindi */}
           <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">Hindi</p>
+            <p className="text-base text-textColor -mb-1.5">Urdu</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
-              <span className="w-[90%] h-full absolute top-0 left-0 bg-designColor"></span>
+              <span className="w-[100%] h-full absolute top-0 left-0 bg-designColor"></span>
             </span>
           </div>
           {/* Arabic*/}
           <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">Arabic</p>
+            <p className="text-base text-textColor -mb-1.5">Pashto</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
-              <span className="w-[70%] h-full absolute top-0 left-0 bg-designColor"></span>
+              <span className="w-[100%] h-full absolute top-0 left-0 bg-designColor"></span>
             </span>
           </div>
           {/* French */}
           <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">French</p>
+            <p className="text-base text-textColor -mb-1.5">Arabic</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
-              <span className="w-[60%] h-full absolute top-0 left-0 bg-designColor"></span>
+              <span className="w-[30%] h-full absolute top-0 left-0 bg-designColor"></span>
             </span>
+          
           </div>
         </div>
       </div>
@@ -111,7 +112,7 @@ const Skills = () => {
           </div>
           {/* UI Design */}
           <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">TypeScript</p>
+            <p className="text-base text-textColor -mb-1.5">Python</p>
             <span className="w-full bg-zinc-600 h-1 inline-flex relative">
               <span className="w-[80%] h-full absolute top-0 left-0 bg-designColor"></span>
             </span>
@@ -137,23 +138,18 @@ const Skills = () => {
             </span>
             iOS and android apps
           </li>
+          
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            Create logo design
+            Designing
           </li>
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            Design for print
-          </li>
-          <li className="flex items-center gap-4 text-textColor">
-            <span className="text-designColor text-lg">
-              <GiCheckMark />
-            </span>
-            Modern and mobile-ready
+            Modern and mobile-ready Web apps
           </li>
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">
@@ -165,13 +161,13 @@ const Skills = () => {
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            Graphics and animations
+            hmmmmm nothing
           </li>
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">
               <GiCheckMark />
             </span>
-            Search engine marketing
+            Fuck off
           </li>
         </ul>
       </div>

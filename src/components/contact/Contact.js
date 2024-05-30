@@ -73,13 +73,13 @@ const Contact = () => {
             <span className="bg-designColor text-gray-700 text-sm font-titleFont font-medium px-2 rounded-md flex items-center justify-center">
               Address:
             </span>
-            Muscat, Oman
+            Peshawar,Pakistan
           </p>
           <p className="flex justify-between w-full text-lg text-[#ccc] py-4 border-b-[1px] border-b-zinc-800">
             <span className="bg-designColor text-gray-700 text-sm font-titleFont font-medium px-2 rounded-md flex items-center justify-center">
               Phone:
             </span>
-            +968 97859628
+            +92 3179525639
           </p>
         </div>
         <div className="w-full lgl:w-1/2">
@@ -87,13 +87,13 @@ const Contact = () => {
             <span className="bg-designColor text-gray-700 text-sm font-titleFont font-medium px-2 rounded-md flex items-center justify-center">
               Email:
             </span>
-            noor.jsdivs@gmail.com
+            <span >afaqali03179525639@gmail.com</span>
           </p>
           <p className="flex justify-between w-full text-lg text-[#ccc] py-4 border-b-[1px] border-b-zinc-800">
             <span className="bg-designColor text-gray-700 text-sm font-titleFont font-medium px-2 rounded-md flex items-center justify-center">
               Freelance:
             </span>
-            Abailable
+            Might not be available
           </p>
         </div>
       </div>
