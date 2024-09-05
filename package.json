@@ -1,6 +1,6 @@
 {
   "Homepage": "http://afaqali0317/github.io/Portfolio",
-  "name": "newportfolio",
+  "name": "Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,8 +19,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build", 
-    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build -r https://github.com/afaqali0317/Portfolio.git",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
