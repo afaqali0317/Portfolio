@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.115790aa.css",
-    "main.js": "/static/js/main.74acda20.js",
+    "main.css": "/static/css/main.a555f772.css",
+    "main.js": "/static/js/main.891ca9a5.js",
     "static/media/bannerImg1.jpg": "/static/media/bannerImg1.416b4469b09dd53d92f5.jpg",
-    "static/media/DummyResume.pdf": "/static/media/DummyResume.9b6babe057fd73446608.pdf",
+    "static/media/AfaqAli's_Resume.pdf": "/static/media/AfaqAli's_Resume.9b6babe057fd73446608.pdf",
     "static/media/workImgEight.jpg": "/static/media/workImgEight.863efcb32ba563410bd6.jpg",
     "static/media/workImgSeven.jpg": "/static/media/workImgSeven.b607849747fc53f9a1c1.jpg",
     "static/media/workImgThree.jpg": "/static/media/workImgThree.f617087bdf72ace764ea.jpg",
@@ -16,11 +16,11 @@
     "static/media/blogImgTwo.jpg": "/static/media/blogImgTwo.6aed37cec2695c32850c.jpg",
     "static/media/workImgOne.jpg": "/static/media/workImgOne.294921da5954189699c7.jpg",
     "index.html": "/index.html",
-    "main.115790aa.css.map": "/static/css/main.115790aa.css.map",
-    "main.74acda20.js.map": "/static/js/main.74acda20.js.map"
+    "main.a555f772.css.map": "/static/css/main.a555f772.css.map",
+    "main.891ca9a5.js.map": "/static/js/main.891ca9a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.115790aa.css",
-    "static/js/main.74acda20.js"
+    "static/css/main.a555f772.css",
+    "static/js/main.891ca9a5.js"
   ]
 }
