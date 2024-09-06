@@ -1,6 +1,6 @@
 {
-  "Homepage": "http://afaqali0317/github.io/Portfolio",
-  "name": "Portfolio",
+  "homepage": "http://afaqali0317.github.io/Portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

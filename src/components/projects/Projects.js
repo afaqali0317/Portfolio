@@ -2,7 +2,7 @@ import React from "react";
 import {
   workImgOne,
   workImgTwo,
-  workImgThree,
+   workImgThree,
   workImgFour,
   workImgFive,
   workImgSix,
